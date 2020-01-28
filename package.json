@@ -1,7 +1,7 @@
 {
   "name": "wcag-color-contrast-checker",
   "version": "1.0.0",
-  "description": "A simple color contrast checker base on the WCAG recommendations.",
+  "description": "A simple color contrast checker based on the WCAG recommendations.",
   "main": "colorChecker.js",
   "repository": "https://github.com/BlueskyFR/wcag-color-contrast-checker",
   "author": "Hugo Cartigny (BlueskyFR)",
